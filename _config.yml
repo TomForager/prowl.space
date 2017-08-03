@@ -6,3 +6,5 @@ github: [metadata]
  gems:
    - jekyll-coffeescript
    - jekyll-paginate
+
+theme: jekyll-theme-dinky
